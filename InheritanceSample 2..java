@@ -1,6 +1,6 @@
 public class InheritanceSample {
     public static void main(String[] args) {
-        Student student = new Student("Angel", " Caybunga", "Information Technology ", 2);
+        Student student = new Student("Rico", "Pantay", "Information Technology ", 2);
         
         System.out.println("Student Details:");
         System.out.println("Name: " + student.getName());
